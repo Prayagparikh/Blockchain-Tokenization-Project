@@ -2,7 +2,8 @@
 **User can buy Tokens from a website using MetaMask account Ethers.**
 
 1) In Powershell window: 
-  --> Run "cd client" and "npm run start".  
+  --> Run "cd client" and "npm run start".
+  --> Choose "Ropsten Test Network" 
   
 **How it works?** 
 1)  First, whitelist your account for KYC before making any Transaction:
