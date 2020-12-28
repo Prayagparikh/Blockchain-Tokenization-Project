@@ -2,9 +2,7 @@
 **User can buy Tokens from a website using MetaMask account Ethers.**
 
 1) In Powershell window: 
-  --> Run "truffle develop" 
-  --> Run "truffle migrate --network ganache_local" or use "truffle migrate" to use Ropsten Test Network(works only if your account has ethers to buy tokens or you can transfer using Ganche to your account.) 
-  --> In another terminal window: Run "cd client" and "npm run start".  
+  --> Run "cd client" and "npm run start".  
   
 **How it works?** 
 1)  First, whitelist your account for KYC before making any Transaction:
